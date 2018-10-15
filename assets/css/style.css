@@ -1,0 +1,53 @@
+body {
+	background-image: url("file:///Users/treenah/Downloads/wov/wov.png");
+	margin: 0px;
+	padding: 0px;
+}
+
+.jumbotron {
+	background-color: rgb(233, 204, 167);
+    color: black;
+    margin: 30px;
+    padding: 7px;
+    text-align: center;
+}
+
+.target-number {
+	background-color: rgb(233, 204, 167);
+	border-style: solid;
+	border-color: rgb(233, 204, 167);
+    border-width: 10px;
+    font-size: 25px;
+}
+
+.win-lose-counter {
+	background-color: rgb(233, 204, 167);
+	border-style: solid;
+	border-color: rgb(233, 204, 167);
+    border-width: 4px;
+    position: absolute;
+    right: 0px;
+    width: 150px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.crystal-images {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.total-score {
+	color: black;
+    background-color: rgb(233, 204, 167);
+    margin: 3px;
+    padding: 3px;
+    text-align: left;
+    font-size: 15px;
+}
+
+.score-number {
+	color: black;
+	background-color: rgb(233, 204, 167);
+	font-size: 25px;
+}
